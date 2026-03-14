@@ -24,7 +24,7 @@ Not Allowed:
 - Selling or using commercially
 
 Love From ShrutiBots
-Telegram: https://t.me/ShrutiBots
+Telegram: https://t.me/divinecultgc
 """
 
 from typing import Union
